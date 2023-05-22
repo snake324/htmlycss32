@@ -1,3 +1,145 @@
-p{
+body{
+    background-image: url(./images/fondo.jpg) ;
+    background-size: cover;   
+}
+
+.paleta{
+    background-color: green;
+    margin: auto;
+    justify-content: center;
+    border: 0px;
+    border: 0;
+    width: 500px;
+    height: 200px;
+    border-collapse:collapse;
+}
+
+.paleta td{
+    height: 50px;
+}
+
+caption{
+    font-size: xx-large;
+    font-weight: bold;
+    padding-bottom: 10px;  
+}
+
+th{
+    vertical-align: top;
+}
+
+.black{
+    background-color: black;
+}
+
+.teal{
+    background-color: teal;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.navy{
+    background-color: navy;
+}
+
+.lime{
+    background-color: lime;
+}
+
+.white{
+    background-color: white;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.olive{
+    background-color: olive;
+}
+
+.red{
+    background-color: red;
+}
+
+.gray{
+    background-color: gray;
+}
+
+.fuchsia{
+    background-color: fuchsia;
+}
+
+.font{
+    margin: auto;
+    justify-content: center; 
+    font-size:xx-large;
+    padding-top: 10px;
     text-align: center;
+}
+
+.fteal{
+    color: teal;
+}
+
+.fblue{
+    color:blue;
+}
+
+.fnavy{
+    color: navy;
+}
+
+.flime{
+    color: lime;
+}
+
+.fwhite{
+    color: white;
+}
+
+.fpurple{
+    color: purple;
+}
+
+.fyellow{
+    color:yellow
+}
+
+.folive{
+    color: olive;
+}
+
+.fred{
+    color: red;
+}
+
+.fmarron{
+    color: brown;
+}
+
+.fgray{
+    color: gray;
+}
+
+.ffuchsia{
+    color: fuchsia;
+}
+
+.fgreen{
+    color: green;
+}
+
+.faqua{
+    color: aqua;
+}
+
+.fsilver{
+    color:silver;
 }
